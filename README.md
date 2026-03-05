@@ -64,7 +64,7 @@ Digital products are designed to be fast, intuitive, and visually consistent.
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SwaminadhanG&theme=dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Swam-6&theme=dark&hide_border=true"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ Digital products are designed to be fast, intuitive, and visually consistent.
 ## Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SwaminadhanG&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swam-6&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
@@ -80,8 +80,10 @@ Digital products are designed to be fast, intuitive, and visually consistent.
 ## Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SwaminadhanG/SwaminadhanG/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/swam-6/swam-6/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
-```
+
+
+
+
