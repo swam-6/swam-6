@@ -80,9 +80,8 @@ Digital products are designed to be fast, intuitive, and visually consistent.
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swam-6/swam-6/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/swam-6/swam-6/output/github-contribution-grid-snake.svg"/>
 </p>
-
 
 
 
