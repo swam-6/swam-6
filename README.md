@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<b>Full Stack Developer | MERN • Python • Flutter</b>
+<b>Full Stack Developer | MERN • Python • Java</b>
 </p>
 
 ---
@@ -38,19 +38,19 @@ Digital products are designed to be fast, intuitive, and visually consistent.
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,tailwind"/>
 </p>
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,oracle"/>
 </p>
 
 ### Tools & Platforms
