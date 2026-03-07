@@ -37,8 +37,7 @@ Digital products are designed to be fast, intuitive, and visually consistent.
 
 ### Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java"/>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### Frameworks & Libraries
@@ -50,13 +49,13 @@ Digital products are designed to be fast, intuitive, and visually consistent.
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,oracle"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,androidstudio,aws,jenkins,idea" />
 </p>
 
 ---
