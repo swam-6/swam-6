@@ -68,13 +68,6 @@ Digital products are designed to be fast, intuitive, and visually consistent.
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swam-6&theme=github-compact&hide_border=true"/>
-</p>
-
----
 
 ## Contribution Snake
 
