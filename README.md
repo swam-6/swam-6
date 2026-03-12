@@ -1,14 +1,3 @@
-<h2>Hi, I'm Swaminadhan G</h2>
-
-<p>
-  <a href="mailto:nathswami619@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nathswami619%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/swami666">
-    <img src="https://img.shields.io/badge/LinkedIn-swami666-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
